@@ -32,6 +32,7 @@ class _BuildFeedWidgetState extends State<BuildFeedWidget> {
             ),
             const Padding(
               padding: EdgeInsets.only(left: 10),
+              //text
               child: Text('new_user'),
             ),
             const Spacer(),
