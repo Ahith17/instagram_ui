@@ -12,7 +12,7 @@ class SearchPage extends StatelessWidget {
         child: const Icon(
           Icons.search,
           size: 100,
-          color: Colors.grey,
+          color: Colors.black26,
         ),
       ),
     );
